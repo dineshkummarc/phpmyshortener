@@ -1,1 +1,2 @@
-# url_shortener
+# phpmyshortener
+formerly url_shortener
